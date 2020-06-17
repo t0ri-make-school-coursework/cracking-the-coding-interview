@@ -1,5 +1,5 @@
 # Linked Lists
-![https://www.geeksforgeeks.org/wp-content/uploads/gq/2013/03/Linkedlist.png](img)
+![img](https://www.geeksforgeeks.org/wp-content/uploads/gq/2013/03/Linkedlist.png)
 
 Linked lists are data structures that represent a sequence of nodes.
 **Singly linked lists** have each node pointing to the next node in the list.
