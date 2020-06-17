@@ -38,5 +38,5 @@ def join_words(word_list):
 ```
 => O(_n_)
 
-[https://stackoverflow.com/questions/3055477/how-slow-is-pythons-string-concatenation-vs-str-join/3055541](Here's a good StackOverflow resource/analysis for this.)
+[Here's a good StackOverflow resource/analysis for this.](https://stackoverflow.com/questions/3055477/how-slow-is-pythons-string-concatenation-vs-str-join/3055541)
 

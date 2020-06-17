@@ -79,7 +79,7 @@ def deleteNode(head, data):
 > The important things to remember are (1) to check for the null pointer and (2) to update the head or tail pointer as necessary.
 
 ## "Runner" Technique
-![https://i.gyazo.com/c3badc1832559ef1573c8cf0bfc416e4.png](explanation of types of problems it appears in)
+![explanation of types of problems it appears in](https://i.gyazo.com/c3badc1832559ef1573c8cf0bfc416e4.png)
 - Used in many linked list problems
 - iterate simultaneously with 2 pointers moving by `node.next` and `node.next.next`
 - by the time one is at the end, the other is at the midpoint
