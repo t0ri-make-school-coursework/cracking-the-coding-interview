@@ -90,7 +90,6 @@ def partition_llist(ll, target):
         node = node.next
     return ll
 
-
 def run_partition_llist():
     llist = LinkedList()
     node1 = Node(6)
