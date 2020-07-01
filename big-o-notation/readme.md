@@ -1,4 +1,9 @@
 # Big O Notation
+## Exercises
+N/A
+:calendar: Chapter completed on *June 2 2020* :tada:
+
+# Notes
 Big O, or _asymptotic runtime_, is the language and metric we use to describe the efficiency of algorithms.
 Big O describes the rate of increase -- no matter the size of the constant is or how slow the linear increase is, linear will at some point surpass the constant.
 
