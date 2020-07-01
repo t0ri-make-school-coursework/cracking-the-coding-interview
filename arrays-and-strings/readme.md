@@ -16,7 +16,7 @@
 |   1.5  | One Away               | :x:                |
 |   1.6  | [String Compression](string_compression.py)     | :warning:          |
 
-:tada: :calendar: Chapter completed on *June 9 2020*
+:calendar: Chapter completed on *June 9 2020* :tada:
 
 # Notes
 ## Hash Tables
