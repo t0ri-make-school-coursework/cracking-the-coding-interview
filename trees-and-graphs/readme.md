@@ -170,7 +170,9 @@ def post_order(node):
 ```
 
 ## Heaps
-Max-heaps are min-heaps but the elements are in descending order rather than ascending
+> Max-heaps are min-heaps but the elements are in descending order rather than ascending
+
+[---> See CS2.1/Alan's Min Heap Here](https://github.com/t0ri/CS-2.1-Trees-Sorting/blob/master/Code/binaryheap.py)
 
 A **min-heap** is a *complete* binary tree where each node is smaller than its children.  The root is the minimum element in the graph.
 
@@ -178,7 +180,6 @@ Its main operations are:
 - insertion
 - extract minimum element
 
-[---> See CS2.1/Alan's Min Heap Here](https://github.com/t0ri/CS-2.1-Trees-Sorting/blob/master/Code/binaryheap.py)
 
 ```
        4
