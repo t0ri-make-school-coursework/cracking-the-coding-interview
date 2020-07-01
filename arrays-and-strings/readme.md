@@ -1,10 +1,11 @@
 # Arrays and Strings
-:tada: :calendar: Completed Chapter *June 9 2020*
-
 ## Exercises
 *Completed* **=** :white_check_mark:
+
 *Messy Solution* **=** :warning:
+
 *Not Started* **=** :x:
+
 
 | Number | Title                  | Status             |
 |:------:|:----------------------:|:------------------:|
@@ -14,6 +15,8 @@
 |   1.4  | Palindrome Permutation | :x:                |
 |   1.5  | One Away               | :x:                |
 |   1.6  | [String Compression](string_compression.py)     | :warning:          |
+
+:tada: :calendar: Chapter completed on *June 9 2020*
 
 # Notes
 ## Hash Tables
