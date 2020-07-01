@@ -1,9 +1,8 @@
 # Cracking the Coding Interview
-## Notes and Challenges
 Completed for Supervised Intensive Study 2.1
+## Notes and Challenges
 
-
-| Sections | Week | Status |
+| Section | Date | Status |
 |:--------:|:----:|:------:|
 | [Big O Notation](big-o-notation/readme.md) | June 2 2020 | :white_check_mark: |
 | [Arrays and Strings](arrays-and-strings/readme.md) | June 9 2020 | :white_check_mark: |
