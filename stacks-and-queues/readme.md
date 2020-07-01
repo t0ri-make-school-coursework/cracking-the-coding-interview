@@ -1,4 +1,25 @@
 # Stacks and Queues
+## Exercises
+*Completed* **=** :white_check_mark:
+
+*Messy Solution* **=** :warning:
+
+*Not Started* **=** :x:
+
+
+| Number | Title                  | Status             |
+|:------:|:----------------------:|:------------------:|
+|   3.1  | [Three in One](three_in_one.py) | :white_check_mark: |
+|   3.2  | [Stack Min](stack_min.py)      | :white_check_mark: |
+|   3.3  | Stack of Plates | :x: |
+|   3.4  | [Queue via Stacks](queue_via_stacks.py) | :white_check_mark: |
+|   3.5  | Sort Stack | :x: |
+|   3.6  | [Animal Shelter](animal_shelter.py) | :warning: |
+
+
+:calendar: Chapter completed on *July 2 2020* :tada3
+
+# Notes
 ## Stacks
 Stacks - last in first out
 Operations:
