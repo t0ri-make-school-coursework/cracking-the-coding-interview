@@ -17,11 +17,11 @@
 |   3.6  | [Animal Shelter](animal_shelter.py) | :warning: |
 
 
-:calendar: Chapter completed on *July 2 2020* :tada3
+:calendar: Chapter completed on *July 2 2020* :tada:
 
 # Notes
 ## Stacks
-Stacks - last in first out
+Stacks - last in first out.
 Operations:
 - `pop()`: remove the top item from the stack
 - `push(item)`: add an item to the top of the stack
