@@ -2,14 +2,18 @@
 :tada: :calendar: Completed Chapter *June 9 2020*
 
 ## Exercises
+*Completed* **=** :white_check_mark:
+*Messy Solution* **=** :warning:
+*Not Started* **=** :x:
+
 | Number | Title                  | Status             |
 |:------:|:----------------------:|:------------------:|
-|   1.1  | [Is Unique](check_permutation.py)              | :x:                |
-|   1.2  | Check Permutation      | :white_check_mark: |
-|   1.3  | URLify                 | :white_check_mark: |
+|   1.1  | Is Unique              | :x:                |
+|   1.2  | [Check Permutation](check_permutation.py)      | :white_check_mark: |
+|   1.3  | [URLify](url_safe.py)                 | :white_check_mark: |
 |   1.4  | Palindrome Permutation | :x:                |
 |   1.5  | One Away               | :x:                |
-|   1.6  | String Compression     | :warning:          |
+|   1.6  | [String Compression](string_compression.py)     | :warning:          |
 
 # Notes
 ## Hash Tables
