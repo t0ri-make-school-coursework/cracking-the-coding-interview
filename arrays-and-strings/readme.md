@@ -1,10 +1,10 @@
 # Arrays and Strings
-:tada: :calendar: June 9 2020
+:tada: :calendar: Completed Chapter *June 9 2020*
 
 ## Exercises
 | Number | Title                  | Status             |
 |:------:|:----------------------:|:------------------:|
-|   1.1  | Is Unique              | :x:                |
+|   1.1  | [Is Unique](check_permutation.py)              | :x:                |
 |   1.2  | Check Permutation      | :white_check_mark: |
 |   1.3  | URLify                 | :white_check_mark: |
 |   1.4  | Palindrome Permutation | :x:                |
