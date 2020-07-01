@@ -3,7 +3,7 @@
 # Implement an algorithm to delete a node in the middle
 # of a singly linked list, given only access to that node.
 def delete_midpoint(ll):
-    # pseudocode because it's pretty simple :woman_shrugging:
+    # pseudocode because it's pretty simple 🤷‍♀️
     # node.value = node.next.value
     # node.next = node.next.next
     pass
