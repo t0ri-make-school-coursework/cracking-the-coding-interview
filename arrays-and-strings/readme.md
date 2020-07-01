@@ -1,4 +1,17 @@
 # Arrays and Strings
+:tada: :calendar: June 9 2020
+
+## Exercises
+| Number | Title                  | Status             |
+|:------:|:----------------------:|:------------------:|
+|   1.1  | Is Unique              | :x:                |
+|   1.2  | Check Permutation      | :white_check_mark: |
+|   1.3  | URLify                 | :white_check_mark: |
+|   1.4  | Palindrome Permutation | :x:                |
+|   1.5  | One Away               | :x:                |
+|   1.6  | String Compression     | :warning:          |
+
+# Notes
 ## Hash Tables
 Insertion Summary/Review
 1. Compute key's hash code.
