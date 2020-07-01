@@ -1,4 +1,27 @@
 # Linked Lists
+## Exercises
+*Completed* **=** :white_check_mark:
+
+*Messy Solution* **=** :warning:
+
+*Not Started* **=** :x:
+
+
+| Number | Title                  | Status             |
+|:------:|:----------------------:|:------------------:|
+|   2.1  | [Remove Duplicates](remove_duplicates.py) | :white_check_mark: |
+|   2.2  | [Return Kth to Last](kth_to_last.py)      | :white_check_mark: |
+|   2.3  | [Delete Middle Node](delete_middle_node.py) | :warning: |
+|   2.4  | [Partition](partition.py) | :warning: |
+|   2.5  | Sum Lists | :x: |
+|   2.6  | Palindrome | :x: |
+|   2.7  | [Intersection](intersection.py) | :white_check_mark: |
+|   2.8  | [Loop Detection](loop_detection.py) | :white_check_mark: |
+
+
+:calendar: Chapter completed on *June 16 2020* :tada:
+
+# Notes
 ![img](https://www.geeksforgeeks.org/wp-content/uploads/gq/2013/03/Linkedlist.png)
 
 Linked lists are data structures that represent a sequence of nodes.
