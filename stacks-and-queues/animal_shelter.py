@@ -63,8 +63,8 @@ class AnimalShelter:
 if __name__ == "__main__":
     shelter = AnimalShelter()
     lucy = Node({ 'name': 'Lucy', 'animal': 'dog' })
-    juicy = Node({ 'name': 'Juicy', 'animal': 'dog' })
-    glucose = Node({ 'name': 'Glucose', 'animal': 'dog' })
+    steve = Node({ 'name': 'Steve', 'animal': 'dog' })
+    jo = Node({ 'name': 'Jo', 'animal': 'dog' })
     shelter.enqueue(lucy)
-    shelter.enqueue(juicy)
-    shelter.enqueue(glucose)
+    shelter.enqueue(steve)
+    shelter.enqueue(jo)

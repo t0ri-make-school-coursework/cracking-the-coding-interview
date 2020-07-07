@@ -9,21 +9,21 @@
 
 | Number | Title                  | Status             |
 |:------:|:----------------------:|:------------------:|
-|   4.1  | Route Between Nodes | :x: |
-|   4.2  | Minimal Tree | :x: |
-|   4.3  | List of Depths | :x: |
-|   4.4  | Check Balanced | :x: |
-|   4.5  | Validate BST | :x: |
-|   4.6  | Successor | :x: |
-|   4.7  | Build Order | :x: |
-|   4.8  | First Common Ancestor | :x: |
+|   4.1  | Route Between Nodes | :construction: |
+|   4.2  | [Minimal Tree](minimal_tree.py) | :white_check_mark: |
+|   4.3  | [List of Depths](list_of_depths.py) | :warning: |
+|   4.4  | [Check Balanced](check_balanced.py) | :white_check_mark: |
+|   4.5  | [Validate BST](validate_bst.py) | :white_check_mark: |
+|   4.6  | Successor | :question: |
+|   4.7  | Build Order | :construction: |
+|   4.8  | [First Common Ancestor](first_common_ancestor.py) | :x: |
 |   4.9  | BST Sequences | :x: |
 |   4.10  | Check Subtree | :x: |
-|   4.11  | Random Node | :x: |
+|   4.11  | Random Node | :construction: |
 |   4.12  | Paths with Sum | :x: |
 
 
-:calendar: Chapter completed on *July 7 2020* :tada:
+:calendar: Chapter completed on *July ... 2020* :tada:
 
 # Notes
 ## Trees
