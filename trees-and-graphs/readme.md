@@ -14,7 +14,7 @@
 |   4.3  | [List of Depths](list_of_depths.py) | :warning: |
 |   4.4  | [Check Balanced](check_balanced.py) | :white_check_mark: |
 |   4.5  | [Validate BST](validate_bst.py) | :white_check_mark: |
-|   4.6  | Successor | :question: |
+|   4.6  | [Successor](successor.py) | :question: |
 |   4.7  | Build Order | :construction: |
 |   4.8  | [First Common Ancestor](first_common_ancestor.py) | :white_check_mark: |
 |   4.9  | [BST Sequences](bst_sequences.py) | :question: |
