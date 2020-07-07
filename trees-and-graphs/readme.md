@@ -16,11 +16,8 @@
 |   4.5  | [Validate BST](validate_bst.py) | :white_check_mark: |
 |   4.6  | Successor | :question: |
 |   4.7  | Build Order | :construction: |
-|   4.8  | [First Common Ancestor](first_common_ancestor.py) | :x: |
-|   4.9  | BST Sequences | :x: |
-|   4.10  | Check Subtree | :x: |
-|   4.11  | Random Node | :construction: |
-|   4.12  | Paths with Sum | :x: |
+|   4.8  | [First Common Ancestor](first_common_ancestor.py) | :white_check_mark: |
+|   4.9  | [BST Sequences](bst_sequences.py) | :question: |
 
 
 :calendar: Chapter completed on *July ... 2020* :tada:
