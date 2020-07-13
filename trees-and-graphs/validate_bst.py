@@ -1,6 +1,7 @@
 # 4.5
 # Implement a function to check if a binary tree is a binary search tree.
 from minimal_tree import min_tree
+from Node import TreeNode
 
 def get_min(root):
     while root.left is not None:
@@ -40,4 +41,12 @@ def validate_bst(node, lower=None, upper=None):
 if __name__ == "__main__":
     bst_root = min_tree([1,2,3,4,5,6,7,8,9,10,11,12])
     # print(bst_root.data)
-    print(validate_bst(bst_root))
+    # print(validate_bst(bst_root))
+
+    unbal_root = TreeNode(5)
+    unbal_root.left = TreeNode(4)
+    unbal_root.left.left = TreeNode(3)
+    unbal_root.left.left.left = TreeNode(2)
+    unbal_root.left.left.left.left = TreeNode(1)
+    unbal_root.right = TreeNode(6)
+    print(validate_bst(unbal_root))

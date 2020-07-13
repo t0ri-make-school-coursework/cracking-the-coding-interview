@@ -10,3 +10,6 @@
     # go to node's parent
 # if node is parent.left
     # return parent.right 
+
+
+# try with a stack, depth first
