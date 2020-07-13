@@ -15,8 +15,8 @@
 |   8.4  | [Power Set](power_set.py) | :white_check_mark: |
 |   8.5  | [Recursive Multiply](recursive_multiply.py) | :white_check_mark: |
 |   8.6  | Towers of Hanoi | :x: |
-|   8.7  | [Permutations without Dups](permutation_no_dups.py) | :construction: |
-|   8.8  | [Permutations with Dups](permutation_dups.py) | :white_check_mark: |
+|   8.7  | [Permutations without Dups](permutation_no_dups.py) | :white_check_mark: |
+|   8.8  | [Permutations with Dups](permutation_dups.py) | :construction: |
 
 
 :calendar: Chapter completed on *July 14 2020* :tada:
