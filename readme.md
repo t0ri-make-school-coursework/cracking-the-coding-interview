@@ -10,4 +10,4 @@ Completed for Supervised Intensive Study 2.1
 | [Stacks and Queues](stacks-and-queues/readme.md) | July 2 2020 | :white_check_mark: |
 | [Trees and Graphs](trees-and-graphs/readme.md) | July 7 2020 | :warning: |
 | [Recursion and Dynamic Programming](recursion-and-dynamic-programming/readme.md) | July 14 2020 | :white_check_mark: |
-| Sorting and Searching | N/A | :x: |
+| [Sorting and Searching](sorting-and-searching/readme.md) | July 20 2020 | :white_check_mark: |
