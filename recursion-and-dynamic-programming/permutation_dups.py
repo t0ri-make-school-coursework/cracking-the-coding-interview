@@ -24,4 +24,4 @@ def permutations_with_dups_ez(words):
 
 if __name__ == "__main__":
     print(permutations_with_dups(list('dog')))
-    print(permutations_with_dups_ez('dog'))
+    # print(permutations_with_dups_ez('dog'))

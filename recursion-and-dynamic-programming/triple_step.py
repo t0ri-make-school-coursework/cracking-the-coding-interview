@@ -1,7 +1,7 @@
 # 8.1
 # Triple Step
 # A child is running up a staircase with n steps and can either hop
-# 1 step, 2 steps, or 3 stops at a time. Implement a method to count
+# 1 step, 2 steps, or 3 steps at a time. Implement a method to count
 # how many possible ways the child can run up the stairs.
 
 def step_up(steps):

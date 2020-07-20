@@ -17,5 +17,5 @@ def power_set(current, subset):
 
 
 if __name__ == "__main__":
-    print(power_set_pythonic())
+    # print(power_set_pythonic())
     print(power_set([], [4, 5, 6]))
